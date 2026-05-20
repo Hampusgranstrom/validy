@@ -1,0 +1,11 @@
+project_id = "validy"
+
+[db]
+major_version = 17
+
+[api]
+schemas = ["public"]
+extra_search_path = ["public"]
+
+[studio]
+enabled = true
